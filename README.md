@@ -1,0 +1,2 @@
+# webpackinit
+webpack init template
