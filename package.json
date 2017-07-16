@@ -1,9 +1,9 @@
 {
-  "name": "weatherpwa",
+  "name": "project",
   "version": "1.0.0",
   "description": "weather",
   "scripts": {
-    "dev": "webpack --color"
+    "dev": "./node_modules/.bin/webpack-dev-server --hot"
   },
   "author": "",
   "license": "ISC",
